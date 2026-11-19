@@ -1,0 +1,22 @@
+# NetBeans / Ant build output
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled classes
+*.class
+/out/
+
+# Files VS Code's Java extension may generate
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code: ignore personal files, but share settings.json
+.vscode/*
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
